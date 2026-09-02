@@ -15,3 +15,7 @@ Assumptions made:
 - Revenue formula used exactly as specified: quantity * unit_price * (1 - discount_pct / 100), rounded to 2 decimals.
 
 [Power BI dashboard](BI_Sale_Performance.pbix)
+
+![SalesPerformance](images/SalesPerformance.png)
+![ProductSales](images/ProductSales.png)
+![Promotion](images/Promotion.png)
